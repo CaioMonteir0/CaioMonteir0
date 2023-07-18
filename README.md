@@ -11,6 +11,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://caiomonteir0.github.io/Portfolio/)
 [![Social](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CaioMonteir0/pens/public?cursor=ZD0xJm89MCZwPTEmdj02NTc1ODIxNw==)<br/><br/>
 ![Caio Monteiro stats](https://github-readme-stats.vercel.app/api?username=CaioMonteir0&show_icons=true&theme=tokyonight)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Guina-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" >
+  <img align="center" alt="Guina-javascript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Guina-type" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Guina-nest" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Guina-nodejs" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Guina-docker" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="Guina-python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
 
 ### Tecnologias que eu uso
