@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://caiomonteir0.github.io/Portfolio/)
 [![Social](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CaioMonteir0/pens/public?cursor=ZD0xJm89MCZwPTEmdj02NTc1ODIxNw==)<br/><br/>
 ![Caio Monteiro stats](https://github-readme-stats.vercel.app/api?username=CaioMonteir0&show_icons=true&theme=tokyonight)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteir0&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteir0&layout=compact&hide_border=true&theme=tokyonight" />
 
 
 ### Tecnologias que eu uso
