@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://caiomonteir0.github.io/Portfolio/)
 [![Social](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CaioMonteir0/pens/public?cursor=ZD0xJm89MCZwPTEmdj02NTc1ODIxNw==)<br/><br/>
 ![Caio Monteiro stats](https://github-readme-stats.vercel.app/api?username=CaioMonteir0&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteir0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteir0&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que eu uso
