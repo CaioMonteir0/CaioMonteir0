@@ -1,7 +1,7 @@
 ### Olá sou o Caio Monteiro 👋
 #
 
--👨‍🎓 Estudante de Engenharia de Controle e Automação no IFCE
+-👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 <br/>
 -👨‍💻Desenvolvedor Full Stack Javascript
 <br/>
