@@ -3,7 +3,7 @@
 
 -👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 <br/>
--👨‍💻Desenvolvedor Full Stack Javascript
+-👨‍💻Desenvolvedor Full Stack 
 <br/>
 
 
