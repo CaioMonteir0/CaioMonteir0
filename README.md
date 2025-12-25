@@ -10,8 +10,9 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-monteiro-4ab4591b8/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://caiomonteir0.github.io/Portfolio/)
 [![Social](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CaioMonteir0/pens/public?cursor=ZD0xJm89MCZwPTEmdj02NTc1ODIxNw==)<br/><br/>
-![Caio Monteiro stats](https://github-readme-stats.vercel.app/api?username=CaioMonteir0&show_icons=true&theme=tokyonight)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteir0&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
+![Caio Monteiro stats](https://caiomonteiro-stats.vercel.app/api?username=CaioMonteir0&show_icons=true&theme=tokyonight)
+<img width="41%" height="195px" src="https://caiomonteiro-stats.vercel.app/api/top-langs/?username=CaioMonteir0&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
+
 
 
 ### Tecnologias que eu uso
